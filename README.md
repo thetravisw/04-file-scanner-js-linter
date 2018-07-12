@@ -18,14 +18,6 @@ Use a Scanner to read through the file line by line. Print an error message
 
 Use the file [gates.js](./gates.js)
 
-## Testing  
-* Use JUnit to write a test for each of the Feature Tasks.
-* Test the linter on a file that contains no errors.
-* Test the linter on a file that contains one error.
-* Test the linter on a file that contains few errors.
-* Test the linter on a file that contains many errors.
-* Test the linter on an empty file.
-
 ## Documentation
 In your `README.md` describe the behavior of the linter and explain what
 users should expect to see when it runs.
